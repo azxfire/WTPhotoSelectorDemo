@@ -15,6 +15,28 @@
 		BBEFD5EA1DB9E99F00C991C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBEFD5E81DB9E99F00C991C7 /* LaunchScreen.storyboard */; };
 		BBEFD5F51DB9E99F00C991C7 /* WTPhotoSelectorDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD5F41DB9E99F00C991C7 /* WTPhotoSelectorDemoTests.m */; };
 		BBEFD6001DB9E99F00C991C7 /* WTPhotoSelectorDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD5FF1DB9E99F00C991C7 /* WTPhotoSelectorDemoUITests.m */; };
+		BBEFD66B1DB9EB9800C991C7 /* compose_edit_group.png in Resources */ = {isa = PBXBuildFile; fileRef = BBEFD64A1DB9EB9800C991C7 /* compose_edit_group.png */; };
+		BBEFD66C1DB9EB9800C991C7 /* compose_photo_photograph.png in Resources */ = {isa = PBXBuildFile; fileRef = BBEFD64B1DB9EB9800C991C7 /* compose_photo_photograph.png */; };
+		BBEFD66D1DB9EB9800C991C7 /* compose_photo_preview_default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BBEFD64C1DB9EB9800C991C7 /* compose_photo_preview_default@2x.png */; };
+		BBEFD66E1DB9EB9800C991C7 /* compose_photo_preview_right@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BBEFD64D1DB9EB9800C991C7 /* compose_photo_preview_right@2x.png */; };
+		BBEFD66F1DB9EB9800C991C7 /* icon-camera-capture.png in Resources */ = {isa = PBXBuildFile; fileRef = BBEFD64E1DB9EB9800C991C7 /* icon-camera-capture.png */; };
+		BBEFD6701DB9EB9800C991C7 /* icon-camera-flash@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BBEFD64F1DB9EB9800C991C7 /* icon-camera-flash@2x.png */; };
+		BBEFD6711DB9EB9800C991C7 /* icon-camera-flip@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BBEFD6501DB9EB9800C991C7 /* icon-camera-flip@2x.png */; };
+		BBEFD6721DB9EB9800C991C7 /* icon-close.png in Resources */ = {isa = PBXBuildFile; fileRef = BBEFD6511DB9EB9800C991C7 /* icon-close.png */; };
+		BBEFD6731DB9EB9800C991C7 /* icon_set.png in Resources */ = {isa = PBXBuildFile; fileRef = BBEFD6521DB9EB9800C991C7 /* icon_set.png */; };
+		BBEFD6741DB9EB9800C991C7 /* MDCAVCameraView.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD6541DB9EB9800C991C7 /* MDCAVCameraView.m */; };
+		BBEFD6751DB9EB9800C991C7 /* MDCCameraManager.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD6561DB9EB9800C991C7 /* MDCCameraManager.m */; };
+		BBEFD6761DB9EB9800C991C7 /* MDCPhotoSelectorLiveFeedCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD6581DB9EB9800C991C7 /* MDCPhotoSelectorLiveFeedCell.m */; };
+		BBEFD6771DB9EB9800C991C7 /* NSIndexSet+Convenience.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD65A1DB9EB9800C991C7 /* NSIndexSet+Convenience.m */; };
+		BBEFD6781DB9EB9800C991C7 /* SelfEditHeadController.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD65C1DB9EB9800C991C7 /* SelfEditHeadController.m */; };
+		BBEFD6791DB9EB9800C991C7 /* TWImageScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD65E1DB9EB9800C991C7 /* TWImageScrollView.m */; };
+		BBEFD67A1DB9EB9800C991C7 /* UICollectionView+Convenience.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD6601DB9EB9800C991C7 /* UICollectionView+Convenience.m */; };
+		BBEFD67B1DB9EB9800C991C7 /* UIImage+UserPhoto.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD6621DB9EB9800C991C7 /* UIImage+UserPhoto.m */; };
+		BBEFD67C1DB9EB9800C991C7 /* WTPhotoAlbumListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD6641DB9EB9800C991C7 /* WTPhotoAlbumListViewController.m */; };
+		BBEFD67D1DB9EB9800C991C7 /* WTPhotoManager.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD6661DB9EB9800C991C7 /* WTPhotoManager.m */; };
+		BBEFD67E1DB9EB9800C991C7 /* WTPhotosListCollectionCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD6681DB9EB9800C991C7 /* WTPhotosListCollectionCell.m */; };
+		BBEFD67F1DB9EB9800C991C7 /* WTPhotosListCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD66A1DB9EB9800C991C7 /* WTPhotosListCollectionView.m */; };
+		BBEFD6831DB9EC6600C991C7 /* UIImage+Color.m in Sources */ = {isa = PBXBuildFile; fileRef = BBEFD6821DB9EC6600C991C7 /* UIImage+Color.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +73,42 @@
 		BBEFD5FB1DB9E99F00C991C7 /* WTPhotoSelectorDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WTPhotoSelectorDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBEFD5FF1DB9E99F00C991C7 /* WTPhotoSelectorDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WTPhotoSelectorDemoUITests.m; sourceTree = "<group>"; };
 		BBEFD6011DB9E99F00C991C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BBEFD64A1DB9EB9800C991C7 /* compose_edit_group.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = compose_edit_group.png; sourceTree = "<group>"; };
+		BBEFD64B1DB9EB9800C991C7 /* compose_photo_photograph.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = compose_photo_photograph.png; sourceTree = "<group>"; };
+		BBEFD64C1DB9EB9800C991C7 /* compose_photo_preview_default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "compose_photo_preview_default@2x.png"; sourceTree = "<group>"; };
+		BBEFD64D1DB9EB9800C991C7 /* compose_photo_preview_right@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "compose_photo_preview_right@2x.png"; sourceTree = "<group>"; };
+		BBEFD64E1DB9EB9800C991C7 /* icon-camera-capture.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-camera-capture.png"; sourceTree = "<group>"; };
+		BBEFD64F1DB9EB9800C991C7 /* icon-camera-flash@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-camera-flash@2x.png"; sourceTree = "<group>"; };
+		BBEFD6501DB9EB9800C991C7 /* icon-camera-flip@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-camera-flip@2x.png"; sourceTree = "<group>"; };
+		BBEFD6511DB9EB9800C991C7 /* icon-close.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-close.png"; sourceTree = "<group>"; };
+		BBEFD6521DB9EB9800C991C7 /* icon_set.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_set.png; sourceTree = "<group>"; };
+		BBEFD6531DB9EB9800C991C7 /* MDCAVCameraView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MDCAVCameraView.h; sourceTree = "<group>"; };
+		BBEFD6541DB9EB9800C991C7 /* MDCAVCameraView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MDCAVCameraView.m; sourceTree = "<group>"; };
+		BBEFD6551DB9EB9800C991C7 /* MDCCameraManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MDCCameraManager.h; sourceTree = "<group>"; };
+		BBEFD6561DB9EB9800C991C7 /* MDCCameraManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MDCCameraManager.m; sourceTree = "<group>"; };
+		BBEFD6571DB9EB9800C991C7 /* MDCPhotoSelectorLiveFeedCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MDCPhotoSelectorLiveFeedCell.h; sourceTree = "<group>"; };
+		BBEFD6581DB9EB9800C991C7 /* MDCPhotoSelectorLiveFeedCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MDCPhotoSelectorLiveFeedCell.m; sourceTree = "<group>"; };
+		BBEFD6591DB9EB9800C991C7 /* NSIndexSet+Convenience.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSIndexSet+Convenience.h"; sourceTree = "<group>"; };
+		BBEFD65A1DB9EB9800C991C7 /* NSIndexSet+Convenience.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSIndexSet+Convenience.m"; sourceTree = "<group>"; };
+		BBEFD65B1DB9EB9800C991C7 /* SelfEditHeadController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelfEditHeadController.h; sourceTree = "<group>"; };
+		BBEFD65C1DB9EB9800C991C7 /* SelfEditHeadController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelfEditHeadController.m; sourceTree = "<group>"; };
+		BBEFD65D1DB9EB9800C991C7 /* TWImageScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TWImageScrollView.h; sourceTree = "<group>"; };
+		BBEFD65E1DB9EB9800C991C7 /* TWImageScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TWImageScrollView.m; sourceTree = "<group>"; };
+		BBEFD65F1DB9EB9800C991C7 /* UICollectionView+Convenience.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UICollectionView+Convenience.h"; sourceTree = "<group>"; };
+		BBEFD6601DB9EB9800C991C7 /* UICollectionView+Convenience.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UICollectionView+Convenience.m"; sourceTree = "<group>"; };
+		BBEFD6611DB9EB9800C991C7 /* UIImage+UserPhoto.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+UserPhoto.h"; sourceTree = "<group>"; };
+		BBEFD6621DB9EB9800C991C7 /* UIImage+UserPhoto.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+UserPhoto.m"; sourceTree = "<group>"; };
+		BBEFD6631DB9EB9800C991C7 /* WTPhotoAlbumListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTPhotoAlbumListViewController.h; sourceTree = "<group>"; };
+		BBEFD6641DB9EB9800C991C7 /* WTPhotoAlbumListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTPhotoAlbumListViewController.m; sourceTree = "<group>"; };
+		BBEFD6651DB9EB9800C991C7 /* WTPhotoManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTPhotoManager.h; sourceTree = "<group>"; };
+		BBEFD6661DB9EB9800C991C7 /* WTPhotoManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTPhotoManager.m; sourceTree = "<group>"; };
+		BBEFD6671DB9EB9800C991C7 /* WTPhotosListCollectionCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTPhotosListCollectionCell.h; sourceTree = "<group>"; };
+		BBEFD6681DB9EB9800C991C7 /* WTPhotosListCollectionCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTPhotosListCollectionCell.m; sourceTree = "<group>"; };
+		BBEFD6691DB9EB9800C991C7 /* WTPhotosListCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTPhotosListCollectionView.h; sourceTree = "<group>"; };
+		BBEFD66A1DB9EB9800C991C7 /* WTPhotosListCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTPhotosListCollectionView.m; sourceTree = "<group>"; };
+		BBEFD6801DB9EBFB00C991C7 /* WTPhotoSelectorMarco.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WTPhotoSelectorMarco.h; sourceTree = "<group>"; };
+		BBEFD6811DB9EC6600C991C7 /* UIImage+Color.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Color.h"; sourceTree = "<group>"; };
+		BBEFD6821DB9EC6600C991C7 /* UIImage+Color.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Color.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +159,7 @@
 		BBEFD5D91DB9E99F00C991C7 /* WTPhotoSelectorDemo */ = {
 			isa = PBXGroup;
 			children = (
+				BBEFD6491DB9EB9800C991C7 /* WTPhotoSelector */,
 				BBEFD5DD1DB9E99F00C991C7 /* AppDelegate.h */,
 				BBEFD5DE1DB9E99F00C991C7 /* AppDelegate.m */,
 				BBEFD5E01DB9E99F00C991C7 /* ViewController.h */,
@@ -138,6 +197,49 @@
 				BBEFD6011DB9E99F00C991C7 /* Info.plist */,
 			);
 			path = WTPhotoSelectorDemoUITests;
+			sourceTree = "<group>";
+		};
+		BBEFD6491DB9EB9800C991C7 /* WTPhotoSelector */ = {
+			isa = PBXGroup;
+			children = (
+				BBEFD6811DB9EC6600C991C7 /* UIImage+Color.h */,
+				BBEFD6821DB9EC6600C991C7 /* UIImage+Color.m */,
+				BBEFD64A1DB9EB9800C991C7 /* compose_edit_group.png */,
+				BBEFD64B1DB9EB9800C991C7 /* compose_photo_photograph.png */,
+				BBEFD64C1DB9EB9800C991C7 /* compose_photo_preview_default@2x.png */,
+				BBEFD64D1DB9EB9800C991C7 /* compose_photo_preview_right@2x.png */,
+				BBEFD64E1DB9EB9800C991C7 /* icon-camera-capture.png */,
+				BBEFD64F1DB9EB9800C991C7 /* icon-camera-flash@2x.png */,
+				BBEFD6501DB9EB9800C991C7 /* icon-camera-flip@2x.png */,
+				BBEFD6511DB9EB9800C991C7 /* icon-close.png */,
+				BBEFD6521DB9EB9800C991C7 /* icon_set.png */,
+				BBEFD6531DB9EB9800C991C7 /* MDCAVCameraView.h */,
+				BBEFD6541DB9EB9800C991C7 /* MDCAVCameraView.m */,
+				BBEFD6551DB9EB9800C991C7 /* MDCCameraManager.h */,
+				BBEFD6561DB9EB9800C991C7 /* MDCCameraManager.m */,
+				BBEFD6571DB9EB9800C991C7 /* MDCPhotoSelectorLiveFeedCell.h */,
+				BBEFD6581DB9EB9800C991C7 /* MDCPhotoSelectorLiveFeedCell.m */,
+				BBEFD6591DB9EB9800C991C7 /* NSIndexSet+Convenience.h */,
+				BBEFD65A1DB9EB9800C991C7 /* NSIndexSet+Convenience.m */,
+				BBEFD65B1DB9EB9800C991C7 /* SelfEditHeadController.h */,
+				BBEFD65C1DB9EB9800C991C7 /* SelfEditHeadController.m */,
+				BBEFD65D1DB9EB9800C991C7 /* TWImageScrollView.h */,
+				BBEFD65E1DB9EB9800C991C7 /* TWImageScrollView.m */,
+				BBEFD65F1DB9EB9800C991C7 /* UICollectionView+Convenience.h */,
+				BBEFD6601DB9EB9800C991C7 /* UICollectionView+Convenience.m */,
+				BBEFD6611DB9EB9800C991C7 /* UIImage+UserPhoto.h */,
+				BBEFD6621DB9EB9800C991C7 /* UIImage+UserPhoto.m */,
+				BBEFD6631DB9EB9800C991C7 /* WTPhotoAlbumListViewController.h */,
+				BBEFD6641DB9EB9800C991C7 /* WTPhotoAlbumListViewController.m */,
+				BBEFD6651DB9EB9800C991C7 /* WTPhotoManager.h */,
+				BBEFD6661DB9EB9800C991C7 /* WTPhotoManager.m */,
+				BBEFD6671DB9EB9800C991C7 /* WTPhotosListCollectionCell.h */,
+				BBEFD6681DB9EB9800C991C7 /* WTPhotosListCollectionCell.m */,
+				BBEFD6691DB9EB9800C991C7 /* WTPhotosListCollectionView.h */,
+				BBEFD66A1DB9EB9800C991C7 /* WTPhotosListCollectionView.m */,
+				BBEFD6801DB9EBFB00C991C7 /* WTPhotoSelectorMarco.h */,
+			);
+			path = WTPhotoSelector;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,6 +309,7 @@
 				TargetAttributes = {
 					BBEFD5D61DB9E99F00C991C7 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = Z6H87VA256;
 						ProvisioningStyle = Automatic;
 					};
 					BBEFD5EF1DB9E99F00C991C7 = {
@@ -246,9 +349,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BBEFD66E1DB9EB9800C991C7 /* compose_photo_preview_right@2x.png in Resources */,
+				BBEFD66B1DB9EB9800C991C7 /* compose_edit_group.png in Resources */,
+				BBEFD6701DB9EB9800C991C7 /* icon-camera-flash@2x.png in Resources */,
+				BBEFD66F1DB9EB9800C991C7 /* icon-camera-capture.png in Resources */,
+				BBEFD6721DB9EB9800C991C7 /* icon-close.png in Resources */,
+				BBEFD66C1DB9EB9800C991C7 /* compose_photo_photograph.png in Resources */,
 				BBEFD5EA1DB9E99F00C991C7 /* LaunchScreen.storyboard in Resources */,
+				BBEFD6731DB9EB9800C991C7 /* icon_set.png in Resources */,
 				BBEFD5E71DB9E99F00C991C7 /* Assets.xcassets in Resources */,
 				BBEFD5E51DB9E99F00C991C7 /* Main.storyboard in Resources */,
+				BBEFD66D1DB9EB9800C991C7 /* compose_photo_preview_default@2x.png in Resources */,
+				BBEFD6711DB9EB9800C991C7 /* icon-camera-flip@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,9 +385,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BBEFD6791DB9EB9800C991C7 /* TWImageScrollView.m in Sources */,
+				BBEFD67E1DB9EB9800C991C7 /* WTPhotosListCollectionCell.m in Sources */,
 				BBEFD5E21DB9E99F00C991C7 /* ViewController.m in Sources */,
+				BBEFD6781DB9EB9800C991C7 /* SelfEditHeadController.m in Sources */,
+				BBEFD6751DB9EB9800C991C7 /* MDCCameraManager.m in Sources */,
+				BBEFD6831DB9EC6600C991C7 /* UIImage+Color.m in Sources */,
+				BBEFD67C1DB9EB9800C991C7 /* WTPhotoAlbumListViewController.m in Sources */,
+				BBEFD6761DB9EB9800C991C7 /* MDCPhotoSelectorLiveFeedCell.m in Sources */,
+				BBEFD67B1DB9EB9800C991C7 /* UIImage+UserPhoto.m in Sources */,
+				BBEFD6771DB9EB9800C991C7 /* NSIndexSet+Convenience.m in Sources */,
+				BBEFD67A1DB9EB9800C991C7 /* UICollectionView+Convenience.m in Sources */,
+				BBEFD67D1DB9EB9800C991C7 /* WTPhotoManager.m in Sources */,
 				BBEFD5DF1DB9E99F00C991C7 /* AppDelegate.m in Sources */,
+				BBEFD67F1DB9EB9800C991C7 /* WTPhotosListCollectionView.m in Sources */,
 				BBEFD5DC1DB9E99F00C991C7 /* main.m in Sources */,
+				BBEFD6741DB9EB9800C991C7 /* MDCAVCameraView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -422,6 +547,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Z6H87VA256;
 				INFOPLIST_FILE = WTPhotoSelectorDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mm.WTPhotoSelectorDemo;
@@ -433,6 +559,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Z6H87VA256;
 				INFOPLIST_FILE = WTPhotoSelectorDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mm.WTPhotoSelectorDemo;

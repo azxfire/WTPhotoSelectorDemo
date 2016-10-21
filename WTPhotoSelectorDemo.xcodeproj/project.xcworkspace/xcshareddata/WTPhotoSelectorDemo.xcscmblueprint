@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "0d51de07-c2f0-42ce-9942-d0d38702eebf++770" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0d51de07-c2f0-42ce-9942-d0d38702eebf++770" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3827A9EA-DE0C-4BF9-BB4E-B3E6BA1EB21E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0d51de07-c2f0-42ce-9942-d0d38702eebf++770" : "projects\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WTPhotoSelectorDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WTPhotoSelectorDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/www.zwy365.com",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0d51de07-c2f0-42ce-9942-d0d38702eebf++770"
+    }
+  ]
+}
